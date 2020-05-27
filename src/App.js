@@ -49,7 +49,7 @@ function App() {
    
   return (
        <div>
-          <h1 id='title'>i18 Table</h1>
+          <h1 id='title'>i18n Table</h1>
              <table id='students'>
                 <tbody>
                    <tr>{renderTableHeader()}</tr>
