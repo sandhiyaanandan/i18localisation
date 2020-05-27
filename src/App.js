@@ -3,7 +3,7 @@ import './App.css';
 import axios from 'axios';
 function App() {
   const [studentsData, setStudentsData] = React.useState([])
-  const langList=[{lj:"English"}, {lj:"Spanish"},{lj:"Latin"},{lj:"French"}, {lj:"Russian"},{lj:"Tamil"},{lj:"Telugu"},{lj:"Kanada"},{lj:"Malayalam"}, {lj:"Marathi"}];
+  const langList=[{lj:"English"}, {lj:"Spanish"},{lj:"Latin"},{lj:"French"}, {lj:"Russian"},{lj:"Tamil"},{lj:"Telugu"},{lj:"Kannada"},{lj:"Malayalam"}, {lj:"Marathi"}];
 
  useEffect(() => { 
     const reqEnglish = axios.get('./localisation/lang_english/english.json');
