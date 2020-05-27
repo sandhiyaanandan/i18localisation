@@ -1,13 +1,14 @@
- {
-		"s_no":"1",
-        "name": "sandhiya", 
-		"mailid": "geethasandhiya@gmail.com", 
-        "place": "chennai", 
-        "query": "login one by one the cause of the problem",
-		"status":"good",
-		"hobby": "playing",
-		"Nature": "yes",
-		"Travel": "yes"
-		}
+ {		
+    "query": "login one by one the cause of the problem",
+	"status":"good",
+	"hobby": "playing",
+	"Nature": "yes",
+	"Travel": "yes",
+	"info": "welcome",
+	"title": "Show Message ",
+	"copyright": "No",
+	"description":"statement that gives details ",
+	"moral": "relating to the standards of good or bad behaviour"
+}
 
 		

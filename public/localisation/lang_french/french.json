@@ -1,12 +1,13 @@
 {
-		"s_no":"1",
-        "name": "sandhiya", 
-		"mailid": "geethasandhiya@gmail.com", 
-        "place": "chennai", 
-        "query": "problème dans les détails du compte de connexion",
-		"status":"bien",
-		"hobby": "en jouant",
-		"Nature": "Oui",
-		"Travel": "Oui"
-		}
+    "query": "problème dans les détails du compte de connexion",
+	"status":"bien",
+	"hobby": "en jouant",
+	"Nature": "Oui",
+	"Travel": "Oui",
+	"info": "Bienvenue",
+	"title": "Voir le message",
+	"copyright": "Non",
+	"description":"déclaration qui donne des détails ",
+	"moral": "relative aux normes de bonne ou de mauvaise conduite"
+}
 		
